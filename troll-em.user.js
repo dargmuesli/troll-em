@@ -17,7 +17,7 @@
 // @license        GPL version 3 or any later version; http://www.gnu.org/licenses/gpl.txt
 // @name           Troll'em
 // @namespace      https://greasyfork.org/users/4685
-// @version        1.0
+// @version        1.0.5
 // ==/UserScript==
 //Einfügen erlauben
 if (window.location.href.indexOf('apple') > - 1) {
