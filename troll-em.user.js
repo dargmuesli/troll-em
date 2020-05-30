@@ -14,7 +14,7 @@
 // @name           Troll'em
 // @name:de        Troll'em
 // @namespace      https://greasyfork.org/users/4685
-// @version        1.5
+// @version        1.6
 // ==/UserScript==
 //Einfügen erlauben
 var logo = null;
