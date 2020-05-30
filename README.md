@@ -8,3 +8,23 @@ Click this link: <https://github.com/dargmuesli/troll-em/raw/master/troll-em.use
 
 ## Greasy Fork
 Visit this script's home at: <https://greasyfork.org/de/scripts/17608-troll-em>
+
+## Example Screenshots
+
+### Apple
+![apple](./assets/screenshots/apple.png)
+
+### Bing
+![apple](./assets/screenshots/bing.png)
+
+### DuckDuckGo
+![apple](./assets/screenshots/duckduckgo.png)
+
+### Google
+![apple](./assets/screenshots/google.png)
+
+### Netflix
+![apple](./assets/screenshots/netflix.png)
+
+### Wikipedia
+![apple](./assets/screenshots/wikipedia.png)
